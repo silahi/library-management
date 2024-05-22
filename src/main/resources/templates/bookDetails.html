@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Détails du Livre</title>
+</head>
+<body>
+    <h1>Détails du Livre</h1>
+    <dl>
+        <dt>Titre:</dt>
+        <dd th:text="${book.title}"></dd>
+        <dt>Auteur:</dt>
+        <dd th:text="${book.author}"></dd>
+        <dt>Genre:</dt>
+        <dd th:text="${book.genre}"></dd>
+        <dt>Année de Publication:</dt>
+        <dd th:text="${book.publicationYear}"></dd>
+    </dl>
+    <a href="/books/">Retour à la Liste des Livres</a>
+    <a href="/books/delete/{id}(id=${book.id})">Supprimer ce Livre</a>
+</body>
+</html>
