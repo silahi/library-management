@@ -6,7 +6,7 @@ Ce projet est une application de gestion de bibliothèque développée avec Spri
 
 Découvrez une démonstration de cette application sur YouTube :
 
-[![Démonstration de l'Application](https://img.youtube.com/vi/VOTRE_ID_YOUTUBE/0.jpg)](https://www.youtube.com/watch?v=VOTRE_ID_YOUTUBE)
+[![Démonstration de l'Application](https://img.youtube.com/vi/NB4VVYfScIQ/0.jpg)](https://www.youtube.com/watch?v=NB4VVYfScIQ)
 
 ## Fonctionnalités
 
